@@ -2,7 +2,7 @@
 
 ## Question Link
 
-[Career Cup - Doctor's Probability Question](www.careercup.com/question?id=5762787884662784)
+[Career Cup - Doctor's Probability Question](https://www.careercup.com/question?id=5762787884662784)
 
 #### Sample Input
 
