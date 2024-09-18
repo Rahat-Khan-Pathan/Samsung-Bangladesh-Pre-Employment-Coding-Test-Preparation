@@ -1,10 +1,29 @@
-Given a 2 D matrix where 1 represent the places where the frog can jump and 0 represent the empty spaces,
-the frog can move freely in horizontal direction (on 1’s only) without incurring any cost (jump).
-A vertical jump from a given point of the matrix to other point on the matrix can be taken (on 1’s only)
-with cost as the number of jumps taken.
-Given a source and destination, the frog has to reach the destination minimizing the cost (jump).
+# Frog Jump Problem
 
-Input
+## Problem Description
+
+Given a 2D matrix where:
+
+-   `1` represents the places where the frog can jump.
+-   `0` represents empty spaces.
+
+The frog can:
+
+-   Move horizontally without any cost (only on `1`s).
+-   Move vertically with a cost equal to the number of jumps taken.
+
+Given a source and destination within the matrix, the frog needs to reach the destination while minimizing the total vertical jump cost.
+
+## Input
+
+-   The matrix size and its elements.
+-   The source and destination coordinates.
+
+### Example
+
+#### Input
+
+```
 5
 0 1 1 0 1
 1 0 0 1 0
@@ -12,6 +31,10 @@ Input
 0 1 0 1 1
 1 0 1 1 1
 4 2 1 3
+```
 
-Output
+#### Output
+
+```
 2
+```

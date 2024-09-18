@@ -1,5 +1,12 @@
-Question Link - https : // www.careercup.com/question?id=5762787884662784
-Sample Input-
+# Doctor's Probability Problem
+
+## Question Link
+
+[Career Cup - Doctor's Probability](www.careercup.com/question?id=5762787884662784)
+
+#### Sample Input
+
+```
 2
 6 10 40
 1 2 0.3
@@ -24,7 +31,11 @@ Sample Input-
 5 6 1.0
 6 3 0.5
 6 6 0.5
+```
 
-Sample Output-
+#### Sample Output
+
+```
 6 0.774000
 3 0.700000
+```

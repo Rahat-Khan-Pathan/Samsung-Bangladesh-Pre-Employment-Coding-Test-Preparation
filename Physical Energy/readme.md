@@ -1,9 +1,33 @@
-Initially you have H amount of energy and D distance to travel. You may travel with any of the given 5 speeds. But you may only travel in units of 1 km. For each km distance traveled, you will spend corresponding amount of energy.e.g. the given speeds are:
+# Physical Energy Problem
 
-Cost of traveling 1 km: [4, 5, 2, 3, 6]
-Time taken to travel 1 km: [200, 210, 230, 235, 215]
+## Problem Description
 
-Find minimum time required to cover total D km with remaining H >= 0
+You have a certain amount of energy and need to travel a specific distance. You can choose from five different speeds to travel, each with its own energy cost and time taken per kilometer.
 
-1 <= H <= 4000
-1 <= D <= 1000
+Your goal is to minimize the total time required to cover the distance, ensuring that you do not exceed the available energy.
+
+### Given
+
+1. An initial amount of energy `H`.
+2. A total distance `D` to travel.
+3. Five speeds, each with associated:
+    - **Cost of traveling 1 km** (energy required per km).
+    - **Time taken to travel 1 km** (time required per km).
+
+### Input
+
+-   An integer `H` representing the initial amount of energy.
+-   An integer `D` representing the total distance to be traveled.
+-   A list of five integers representing the energy cost to travel 1 km for each speed.
+-   A list of five integers representing the time taken to travel 1 km for each speed.
+
+### Example
+
+#### Input
+
+```
+3000
+10
+4 5 2 3 6
+200 210 230 235 215
+```

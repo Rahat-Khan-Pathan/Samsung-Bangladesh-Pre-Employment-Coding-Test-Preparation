@@ -1,7 +1,14 @@
-Question Link - https://www.careercup.com/question?id=5695230699896832
+# Car Fuel Problem
 
-TEST CASES
-Input
+## Question Link
+
+[Car Fuel](https://www.careercup.com/question?id=5695230699896832)
+
+### TEST CASES
+
+#### Input
+
+```
 7
 4
 1 1 1 1
@@ -17,7 +24,11 @@ Input
 1 2 1
 8
 1 2 2 2 1 2 1 1
-Output
+```
+
+#### Output
+
+```
 8
 12
 14
@@ -25,3 +36,4 @@ Output
 8
 6
 32
+```

@@ -1,3 +1,7 @@
-Question Link - https://www.hackerrank.com/contests/target-samsung-13-nov19/challenges/endoscope
+# Endoscope Problem
 
-*** I got this in my pre-employment test. Hurray!!!
+## Question Link
+
+[Hackerrank - Endoscope](https://www.hackerrank.com/contests/target-samsung-13-nov19/challenges/endoscope)
+
+##### I got this in my pre-employment test. Hurray!!!

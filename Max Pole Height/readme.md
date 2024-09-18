@@ -1,13 +1,30 @@
-You have to place an electronic banner of a company as high as it can be, so that whole the city can view the banner
-standing on top of TWO PILLERS.
-The height of two pillers are to be chosen from given array.. say [1, 2, 3, 4, 6]. We have to maximise the height
-of the two pillars standing side by side, so that the pillars are of EQUAL HEIGHT and banner can be placed on top of it.
-In the above array, (1, 2, 3, 4, 6) we can choose pillars like this, say two pillars as p1 and p2.
-In case, there is no combination possible, print 0.
+# Maximum Pole Problem
 
-INPUT :
+## Problem Description
+
+You need to place an electronic banner on top of two pillars of equal height to maximize visibility across the city. You are given an array of integers representing possible pillar heights. Your task is to choose two pillars of the same height from this array to maximize the combined height of the two pillars.
+
+-   If no two pillars of equal height can be found, return `0`.
+
+## Input
+
+-   The first line contains the number of test cases.
+-   For each test case:
+    -   The first line contains an integer `N`, the number of possible pillar heights.
+    -   The second line contains `N` integers representing the heights of the pillars.
+
+### Example
+
+#### Input
+
+```
 1
 5
 1 2 3 4 6
-Output :
+```
+
+#### Output
+
+```
 8
+```

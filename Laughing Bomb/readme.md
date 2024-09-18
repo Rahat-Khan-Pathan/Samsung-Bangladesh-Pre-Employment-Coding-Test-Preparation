@@ -1,1 +1,5 @@
-Question Link - https://www.cnblogs.com/kingshow123/p/practicec1.html
+# Laughing Bomb Problem
+
+## Question Link
+
+[Laughing Bomb](https://www.cnblogs.com/kingshow123/p/practicec1.html)

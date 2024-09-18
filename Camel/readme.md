@@ -1,15 +1,28 @@
-Question - A man has some camels with him.He has to take these camels to the opposite end.Each camel has some cost to go from one end to other.
-->While going to opposite end , he will take 2 camels along with him, the cost will be the maximum of the cost of both the camels.
-->On reaching opposite end, he will take one camel from opposite end to go back to first end, the cost will be taken as the cost of that camel.
-->At the end, he has to move all the camels to the opposite end.
-Find the minimum cost to take camels to opposite end.
-Example->
-INPUT
-2              //No of test cases
-4              //No of camels in first test case
-1 2 8 9        //Cost of camels
-6
-14 45 73 86 95 98
-OUTPUT
+# Camels Transportation Problem
+
+## Problem Description
+
+A man has some camels, and he needs to move all of them to the opposite end of a desert. Each camel has a specific cost associated with traveling from one end to the other.
+
+-   The man can take **two camels at a time** to the opposite end, and the cost of the trip will be the **maximum cost** of the two camels.
+-   After reaching the opposite end, the man **returns with one camel**, and the cost of returning is the cost of that particular camel.
+-   The goal is to find the **minimum total cost** to move all the camels to the opposite end.
+
+### Example
+
+#### Input
+
+```
+2                // Number of test cases
+4                // Number of camels in the first test case
+1 2 8 9          // Costs of camels in the first test case
+6                // Number of camels in the second test case
+14 45 73 86 95 98 // Costs of camels in the second test case
+```
+
+#### Output
+
+```
 16
 434
+```
