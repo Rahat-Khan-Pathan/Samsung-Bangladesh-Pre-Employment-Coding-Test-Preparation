@@ -2,4 +2,4 @@
 
 ## Question Link
 
-[Hackerrank - Rock Climbing](https://www.hackerrank.com/contests/target-samsung-13-nov19/challenges/rock-climbing)
+[Hackerrank - Rock Climbing Question](https://www.hackerrank.com/contests/target-samsung-13-nov19/challenges/rock-climbing)

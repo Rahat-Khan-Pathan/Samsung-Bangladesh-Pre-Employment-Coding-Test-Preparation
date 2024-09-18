@@ -2,7 +2,7 @@
 
 ## Question Link
 
-[Hackerrank - Burst Balloons](https://www.hackerrank.com/contests/target-samsung-13-nov19/challenges/burst-balloons-1)
+[Hackerrank - Burst Balloons Question](https://www.hackerrank.com/contests/target-samsung-13-nov19/challenges/burst-balloons-1)
 
 ## Topic
 

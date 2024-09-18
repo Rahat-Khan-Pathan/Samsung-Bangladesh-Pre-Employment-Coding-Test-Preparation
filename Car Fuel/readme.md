@@ -2,7 +2,7 @@
 
 ## Question Link
 
-[Car Fuel](https://www.careercup.com/question?id=5695230699896832)
+[Careercup - Car Fuel Question](https://www.careercup.com/question?id=5695230699896832)
 
 ### TEST CASES
 

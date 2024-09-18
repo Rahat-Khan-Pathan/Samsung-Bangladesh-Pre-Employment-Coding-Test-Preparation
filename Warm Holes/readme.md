@@ -2,4 +2,4 @@
 
 ## Question Link
 
-[Hackerrank - Warm Holes](https://www.hackerrank.com/contests/target-samsung-13-nov19/challenges/warmholes)
+[Hackerrank - Warm Holes Question](https://www.hackerrank.com/contests/target-samsung-13-nov19/challenges/warmholes)

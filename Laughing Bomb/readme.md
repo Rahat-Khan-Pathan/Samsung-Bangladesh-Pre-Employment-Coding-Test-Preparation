@@ -2,4 +2,4 @@
 
 ## Question Link
 
-[Laughing Bomb](https://www.cnblogs.com/kingshow123/p/practicec1.html)
+[Laughing Bomb Question](https://www.cnblogs.com/kingshow123/p/practicec1.html)

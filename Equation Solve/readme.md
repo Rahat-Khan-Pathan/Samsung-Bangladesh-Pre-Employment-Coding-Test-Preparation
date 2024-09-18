@@ -2,4 +2,4 @@
 
 ## Question Link
 
-[Leetcode - Equation](<https://leetcode.com/discuss/interview-question/4157407/Samsung-RandD-(OnCampus)-2023-or-Easy-but-tricky>)
+[Leetcode - Equation Question](<https://leetcode.com/discuss/interview-question/4157407/Samsung-RandD-(OnCampus)-2023-or-Easy-but-tricky>)

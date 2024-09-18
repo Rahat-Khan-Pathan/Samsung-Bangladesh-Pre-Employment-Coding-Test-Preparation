@@ -2,7 +2,7 @@
 
 ## Question Link
 
-[Careercup - Research Center](https://www.careercup.com/question?id=5707238197952512)
+[Careercup - Research Center Question](https://www.careercup.com/question?id=5707238197952512)
 
 ### Input
 
